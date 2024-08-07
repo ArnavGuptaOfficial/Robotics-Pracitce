@@ -1,0 +1,14 @@
+public class Variables {
+
+    public static void main(String[] args) {
+        int x = 1005;
+       if(x<100){
+        x += 100;
+       }
+      if (x>=100){
+        x = x/20;
+       }
+       System.out.println(x);
+    }
+    
+}
