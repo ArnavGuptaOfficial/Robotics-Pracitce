@@ -1,0 +1,13 @@
+public class Lasagna {
+
+    
+
+        int mins = 40;
+
+        public int expectedMin(){
+            return mins;
+        }   
+    
+        
+
+        }
