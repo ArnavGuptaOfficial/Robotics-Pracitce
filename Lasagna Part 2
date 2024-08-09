@@ -1,0 +1,24 @@
+public class Lasagna {
+public static void main(String[] args) {
+    
+}
+    
+
+        int mins = 40;
+
+        public int expectedMin(){
+            return mins;
+        }
+
+        public int remainMin(int minsPassed){
+            return mins-minsPassed;
+            
+        }
+        public int prepTime(int layers){
+            return layers;
+        }
+    
+    
+        
+
+        }
